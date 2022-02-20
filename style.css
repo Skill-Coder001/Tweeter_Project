@@ -6,7 +6,7 @@ html, body
 
 body
 {
-background-image: linear-gradient(to left top, #4ab1ff, #275bec, #3ddbf0, #006297, #15bbfd);
+background-image: linear-gradient(to left top, #4ab1ff, #1e6dff, #3ddbf0, #1199e2, #15bbfd);
 }
 
 .header
@@ -21,7 +21,7 @@ background-image: linear-gradient(to left top, #4ab1ff, #275bec, #3ddbf0, #00629
 
 #login_button
 {
-	width: 80%;border-radius: 15px;
+	width: 80%;border-radius: 15px; 
 }
 
 .room_name
